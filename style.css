@@ -84,3 +84,7 @@ button:nth-child(22) {
     font-size: 20px;
     background-color: #9477af;
 }
+footer{
+    color: white;
+    text-align: center;
+}
